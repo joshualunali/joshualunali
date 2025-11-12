@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I'm Joshua Luna-Li, a third year Computer Science student at Toronto Metropolitan University (formerly Ryerson).
+My program focus is on Machine Learning and Computer Vision, but outside of school you might find me:
+\- 🚵 Ripping through the woods
+\- 🏂 Jumping off of cliffs
+\- 📷 Looking for the perfect shot
 <!--
 **joshualunali/joshualunali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
