@@ -5,6 +5,10 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 \- 🚵 Ripping through the woods<br/>
 \- 🏂 Jumping off of cliffs<br/>
 \- 📷 Looking for the perfect shot<br/>
+<br/>
+## Tech Stack
+
+
 <!--
 **joshualunali/joshualunali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
