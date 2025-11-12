@@ -43,7 +43,7 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api? username=Raz115&show_icons=true&theme=tokyonight)
 
 <!--
 **joshualunali/joshualunali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
