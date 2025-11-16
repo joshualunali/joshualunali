@@ -5,6 +5,7 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 \- 🚵 Ripping through the woods<br/>
 \- 🏂 Jumping off of cliffs<br/>
 \- 📷 Looking for the perfect shot<br/>
+\- 🏹 Shooting for the bullseye<br/>
 <br/>
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
