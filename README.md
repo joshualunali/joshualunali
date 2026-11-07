@@ -1,4 +1,4 @@
-[![Joshua Luna-Li: computer vision and machine learning. A tracked hand pinches to control a volume meter.](assets/hero.svg)](https://github.com/joshualunali/Hand-Tracking-Audio-Control-Mapping)
+[![Joshua Luna-Li: computer vision and machine learning. A Silakka54 split keyboard types the name while a tracked hand pinches to control volume.](assets/hero.svg)](https://github.com/joshualunali/Hand-Tracking-Audio-Control-Mapping)
 
 ## Hey there 🤙
 
