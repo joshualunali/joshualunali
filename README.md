@@ -1,3 +1,5 @@
+[![Joshua Luna-Li: computer vision and machine learning. A tracked hand pinches to control a volume meter.](assets/hero.svg)](https://github.com/joshualunali/Hand-Tracking-Audio-Control-Mapping)
+
 ## Hey there 🤙
 
 I'm Joshua Luna-Li, a fourth year Computer Science student at Toronto Metropolitan University (formerly Ryerson).
