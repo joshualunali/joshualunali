@@ -14,14 +14,23 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 
 ## Projects
 
+### Machine Learning & Computer Vision
+
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [Hand-Tracking Audio Control](https://github.com/joshualunali/Hand-Tracking-Audio-Control-Mapping) | Controls Windows system volume from a webcam by tracking the pinch distance between thumb and index finger, calibrating to your hand as it runs | Python, MediaPipe, OpenCV |
-| [zmk-nice-oled](https://github.com/joshualunali/zmk-nice-oled) | Personal fork of a ZMK keyboard display module, with custom TMU and Nu Gundam logos added to the OLED firmware | C, ZMK |
 | [Clustering Research Project](https://github.com/joshualunali/Clustering-Research-Project) | Measures how standardisation and PCA change K-Means results on a wheat seed dataset, using WCSS, silhouette score and entropy | Python, scikit-learn, pandas |
 | [Keras Handwriting Sandbox](https://github.com/joshualunali/Keras-Handwriting-Sandbox) | Trains a fully connected neural network to classify handwritten MNIST digits | Python, Keras, TensorFlow |
 | [Decision Tree Classifier](https://github.com/joshualunali/SciKit-Classifier-Testing) | Builds a decision tree classifier on Wisconsin breast cancer imaging data | Python, scikit-learn |
 | [Regression Testing](https://github.com/joshualunali/SciKit-Regression-Testing) | Tests linear and logistic regression models, including one-vs-one and one-vs-rest | Python, scikit-learn |
+
+### Keyboards & Firmware
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [HID Remapper: nice!nano Bluetooth](https://github.com/joshualunali/hid-remapper) | Fork of jfedor2's HID Remapper. Ported the Bluetooth firmware to the nice!nano, fixed devices being rejected when their HID report types don't match their properties, and added LED blink codes for debugging pairing | C++, Zephyr, nRF52 |
+| [zmk-nice-oled](https://github.com/joshualunali/zmk-nice-oled) | Personal fork of a ZMK display module, adding TMU and Nu Gundam logos as selectable screen images | C, ZMK |
+| [zmk-onekey](https://github.com/joshualunali/zmk-onekey) | Minimal ZMK shield for a single switch wired straight to a nice!nano, built by GitHub Actions | ZMK, Devicetree |
 
 ## Tech Stack
 
@@ -61,7 +70,10 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-**Hardware**
+**Hardware & Firmware**
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![ZMK](https://img.shields.io/badge/ZMK-%23121011.svg?style=for-the-badge)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-%23333F48.svg?style=for-the-badge)
+![Nordic nRF52](https://img.shields.io/badge/nRF52-%2300A9CE.svg?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)
