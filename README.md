@@ -24,7 +24,7 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Hand-Tracking Audio Control](https://github.com/joshualunali/Synth-Grasp) | Controls Windows system volume from a webcam by tracking the pinch distance between thumb and index finger, calibrating to your hand as it runs. [Try the browser version](https://joshualunali.github.io/Synth-Grasp/) | Python, MediaPipe, OpenCV, JavaScript |
+| [Synth-Grasp](https://github.com/joshualunali/Synth-Grasp) | Controls Windows system volume from a webcam by tracking the pinch distance between thumb and index finger, calibrating to your hand as it runs. [Try the browser version](https://joshualunali.github.io/Synth-Grasp/) | Python, MediaPipe, OpenCV, JavaScript |
 | [Clustering Research Project](https://github.com/joshualunali/Clustering-Research-Project) | Measures how standardisation and PCA change K-Means results on a wheat seed dataset, using WCSS, silhouette score and entropy | Python, scikit-learn, pandas |
 | [Keras Handwriting Sandbox](https://github.com/joshualunali/Keras-Handwriting-Sandbox) | Trains a fully connected neural network to classify handwritten MNIST digits | Python, Keras, TensorFlow |
 | [Decision Tree Classifier](https://github.com/joshualunali/SciKit-Classifier-Testing) | Builds a decision tree classifier on Wisconsin breast cancer imaging data | Python, scikit-learn |
