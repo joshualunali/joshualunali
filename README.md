@@ -14,6 +14,12 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 
 ## Projects
 
+### Web Apps
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [BoardShapes](https://github.com/joshualunali/boardshapes) | Overlays snowboard outlines to scale so you can compare shapes, sizes and specs, and picks each board's size from your weight. The outlines are rebuilt from the widths, sidecut radius and setback that Burton, Jones and Nidecker publish, and a Python scraper collects those specs from their size charts. [Try it live](https://joshualunali.github.io/boardshapes/) | JavaScript, SVG, Python |
+
 ### Machine Learning & Computer Vision
 
 | Project | What it does | Built with |
@@ -31,12 +37,6 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 | [HID Remapper: nice!nano Bluetooth](https://github.com/joshualunali/hid-remapper) | Fork of jfedor2's HID Remapper. Ported the Bluetooth firmware to the nice!nano, fixed devices being rejected when their HID report types don't match their properties, and added LED blink codes for debugging pairing | C++, Zephyr, nRF52 |
 | [zmk-nice-oled](https://github.com/joshualunali/zmk-nice-oled) | Personal fork of a ZMK display module, adding TMU and Nu Gundam logos as selectable screen images | C, ZMK |
 | [zmk-onekey](https://github.com/joshualunali/zmk-onekey) | Minimal ZMK shield for a single switch wired straight to a nice!nano, built by GitHub Actions | ZMK, Devicetree |
-
-### Web Apps
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [BoardShapes](https://github.com/joshualunali/boardshapes) | Overlays snowboard outlines to scale so you can compare shapes, sizes and specs, and picks each board's size from your weight. The outlines are rebuilt from the widths, sidecut radius and setback that Burton, Jones and Nidecker publish, and a Python scraper collects those specs from their size charts. [Try it live](https://joshualunali.github.io/boardshapes/) | JavaScript, SVG, Python |
 
 ## Tech Stack
 
