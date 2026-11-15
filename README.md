@@ -72,7 +72,6 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 
 **Hardware & Firmware**
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![ZMK](https://img.shields.io/badge/ZMK-%23121011.svg?style=for-the-badge)
 ![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-%23333F48.svg?style=for-the-badge)
