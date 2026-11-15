@@ -19,12 +19,12 @@ My program focus is on Machine Learning and Computer Vision, but outside of scho
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [BoardShapes](https://github.com/joshualunali/boardshapes) | Overlays snowboard outlines to scale so you can compare shapes, sizes and specs, and picks each board's size from your weight. The outlines are rebuilt from the widths, sidecut radius and setback that Burton, Jones and Nidecker publish, and a Python scraper collects those specs from their size charts. [Try it live](https://joshualunali.github.io/boardshapes/) | JavaScript, SVG, Python |
+| [Synth-Grasp](https://github.com/joshualunali/Synth-Grasp) | Controls Windows system volume from a webcam by tracking the pinch distance between thumb and index finger, calibrating to your hand as it runs. [Try the browser version](https://joshualunali.github.io/Synth-Grasp/) | Python, MediaPipe, OpenCV, JavaScript |
 
 ### Machine Learning & Computer Vision
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Synth-Grasp](https://github.com/joshualunali/Synth-Grasp) | Controls Windows system volume from a webcam by tracking the pinch distance between thumb and index finger, calibrating to your hand as it runs. [Try the browser version](https://joshualunali.github.io/Synth-Grasp/) | Python, MediaPipe, OpenCV, JavaScript |
 | [Clustering Research Project](https://github.com/joshualunali/Clustering-Research-Project) | Measures how standardisation and PCA change K-Means results on a wheat seed dataset, using WCSS, silhouette score and entropy | Python, scikit-learn, pandas |
 | [Keras Handwriting Sandbox](https://github.com/joshualunali/Keras-Handwriting-Sandbox) | Trains a fully connected neural network to classify handwritten MNIST digits | Python, Keras, TensorFlow |
 | [Decision Tree Classifier](https://github.com/joshualunali/SciKit-Classifier-Testing) | Builds a decision tree classifier on Wisconsin breast cancer imaging data | Python, scikit-learn |
